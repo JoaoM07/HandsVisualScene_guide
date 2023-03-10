@@ -1,6 +1,6 @@
 'O hand, where art thou? – Mapping hand location across the visual scene, during common activities' (Accepted for publication)
 
-Step-by-step guide to run our data analysis.
+Step-by-step guide to run our data analysis (UNDER CONSTRUCTION)
 
 We recommend running the analysis in Google Colab. Colab is Google's online platform for writing and running code in Python language. It allows for using high-end processors and links with Google drive where you can store your data. Both of these will require a Gmail account but are free.
 
