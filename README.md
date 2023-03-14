@@ -1,6 +1,6 @@
 ## Step-by-step guide to reproduce our data analysis process ##
 
-We recommend running the analysis in Google Colab. Colab is Google's online platform forwriting and running code in Python language. It allows us to use high-end hardware and links with Google drive where you can store your data. Both of these will require a Gmail account.
+We recommend running the analysis in Google Colab. Colab is Google's online platform for writing and running code. It allows you to use high-end hardware while linking with Google Drive where you can store your data. Both of these will require a Gmail account. The scripts can also be run on your machine using Jupyter Notebooks. You will need to change the path of the files to where you have saved them on your machine.
 
 ### Step 1. Download the Epic Kitchens hand-object annotations files ###
 (The duration of this step depends on your internet connection as this requires the download of a very large ZIP file - 10Gb)
@@ -10,7 +10,7 @@ We recommend running the analysis in Google Colab. Colab is Google's online plat
   
   1.2 - Click on the 'Complete download' button. 
 
-  1.3 - Unzip the file and extract its content to a folder in your hard drive.
+  1.3 - Unzip the file and extract its content to a folder in your hard drive. This is the original dataset from which we extracted the data for our analysis.
 
 ### Step 2. Upload the data onto your Google Drive ###
 
@@ -26,6 +26,6 @@ We recommend running the analysis in Google Colab. Colab is Google's online plat
      [VisualField_Methods_Stats_Analysis.ipynb]() \
      [PlottingAndFigures.ipynb]() \
      
-  3.2 - Create a folder in your Google Drive called 'LVS_notebooks'. \
+  3.2 - Create a folder in your Google Drive called 'LVS_notebooks'. 
   
   3.3 - Upload the above 4 files into 'LVS_notebooks' by drag and dropping the files,
