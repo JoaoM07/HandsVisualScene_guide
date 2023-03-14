@@ -8,7 +8,7 @@ We recommend running the analysis in Google Colab. Colab is Google's online plat
   1.1 - Use the url below to access the Epic Kitchens page hosting the file:
   https://data.bris.ac.uk/data/dataset/3l8eci2oqgst92n14w2yqi5ytu
   
-  1.2 - Click on the 'Complete download' button. 
+  1.2 - Click on the 'Complete download' button (in green). 
 
   1.3 - Unzip the file and extract its content to a folder in your hard drive. This is the original dataset from which we extracted the data for our analysis.
 
@@ -23,7 +23,7 @@ We recommend running the analysis in Google Colab. Colab is Google's online plat
   3.1 - Download the Jupyter Notebooks containing our analysis:
      VisualField_Methods0.ipynb \
      VisualField_Methods_Proportions.ipynb \
-     VisualField_Methods_Stats_Analysis.ipynb 
+     VisualField_Methods_Stats_Analysis.ipynb \
      PlottingAndFigures.ipynb 
      
   3.2 - Create a folder in your Google Drive called 'LVS_notebooks'. Upload the above four files onto the 'LVS_notebooks' folder. 
