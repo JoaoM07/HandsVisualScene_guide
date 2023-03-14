@@ -1,7 +1,5 @@
 ## Step-by-step guide to reproduce our data analysis process ##
 
-**'O hand, where art thou? – Mapping hand location across the visual scene, during common activities' (Accepted for publication)**
-
 We recommend running the analysis in Google Colab. Colab is Google's online platform forwriting and running code in Python language. It allows us to use high-end hardware and links with Google drive where you can store your data. Both of these will require a Gmail account.
 
 ### Step 1. Download the Epic Kitchens hand-object annotations files ###
