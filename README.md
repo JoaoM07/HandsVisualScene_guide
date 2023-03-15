@@ -8,6 +8,8 @@ We recommend running the analysis in Google Colab. Colab is Google's online plat
   1.1 - Use the url below to access the Epic Kitchens page hosting the file:
   https://data.bris.ac.uk/data/dataset/3l8eci2oqgst92n14w2yqi5ytu
   
+  ![instructions_1](https://myoctocat.com/assets/images/base-octocat.svg)
+  
   1.2 - Click on the 'Complete download' button (in green). 
 
   1.3 - Unzip the file and extract its content to a folder in your hard drive. This is the original dataset from which we extracted the data for our analysis.
