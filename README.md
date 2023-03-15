@@ -38,14 +38,14 @@ We recommend running the analysis in Google Colab. Colab is Google's online plat
   
   3.3 - Open the first notebook in the list above ('VisualField_Methods0.ipynb'). 
   
-  3.4 - Run the code in each cell of the Notebook in sequence. Inside each Notebook you will find some information regarding the analysis. Code will be contained in separate cells (cell = each box containing code). To run the code in each cell, press the 'Shift' and the 'Enter' keys at the same time. Wait for the previous cell to finish running its code before you run the next cell. 
+  3.4 - Run the code in each cell of the Notebook in sequence. Inside each Notebook you will find some information regarding the analysis. Code will be contained in separate cells (cell = each box containing code). To run the code in each cell, press the 'Shift' and the 'Enter' keys at the same time. 
   
-  3.5 - When you run the first cell of the Notebook, you will be asked for permition to access your Google Drive so the script can load the dataset as well as save data. You should see a similar message to the one on the image below. 
+NOTE: When you run the first cell of the Notebook, you will be asked for permition to access your Google Drive so the script can load the dataset as well as save data. You should see a similar message to the one on the image below. 
   
   ![instructions_1](Images/LVF_instructions_5.jpg)
   
 
-  3.6 - When the cell finishes running the contained code, you should see a green tik on the left side of the cell like on the image below. 
+ When the cell finishes running the contained code, you should see a green tik on the left side of the cell like on the image below. Wait for the previous cell to finish running its code before you run the next cell. 
   
   
   ![instructions_1](Images/LVF_instructions_6.jpg)
