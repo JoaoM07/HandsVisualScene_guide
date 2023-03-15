@@ -28,7 +28,7 @@ We recommend running the analysis in Google Colab. Colab is Google's online plat
   
 ## Step 3. Running our analysis ##
 
-  3.1 - Download the Jupyter Notebooks containing our analysis:
+  3.1 - Download the Jupyter Notebooks containing our analysis: \
      VisualField_Methods0.ipynb \
      VisualField_Methods_Proportions.ipynb \
      VisualField_Methods_Stats_Analysis.ipynb \
