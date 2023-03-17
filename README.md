@@ -1,6 +1,6 @@
 # Step-by-step guide to reproduce our data analysis process #
 
-We recommend running the analysis in Google Colab. Colab is Google's online platform for writing and running code. It allows you to use high-end hardware while linking with Google Drive where you can store your data. Both of these will require a Gmail account. The scripts can also be run on your machine using Jupyter Notebooks. You will need to change the filepaths to where you have saved them on your machine.
+We suggest running the analysis in Google Colab. Colab is Google's online platform for writing and running code. It allows you to use high-end hardware while linking with Google Drive where you can store your data. Both of these will require a Gmail account. The scripts can also be run on your machine using Jupyter Notebooks. You will need to change the filepaths to where you have saved them on your machine.
 
 ## Step 1. Download the Epic Kitchens hand-object annotations files ##
 (The duration of this step depends on your internet connection as this requires the download of a very large ZIP file - 10Gb)
